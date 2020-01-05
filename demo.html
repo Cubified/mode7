@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>mode7.js demo</title>
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        background: #333;
+        color: #f3f3f3;
+      }
+      .hidden {
+        opacity: 0;
+        visibility: hidden;
+        display: none;
+      }
+      .center {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+      }
+      canvas {
+        transform: scale(1.2);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="center">
+      <div>
+        <canvas id="canv"></canvas>
+      </div>
+    </div>
+    <img id="ci1" src="maps/ci1_resized.png" class="hidden">
+    <img id="bgd" src="maps/me.png" class="hidden">
+    <script src="mode7.js"></script>
+    <script src="demo.js"></script>
+  </body>
+</html>
