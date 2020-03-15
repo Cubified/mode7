@@ -6,6 +6,8 @@ A pure-Javascript perspective transform (a la SNES Mode 7).
 
 ![Demo](https://github.com/Cubified/mode7/raw/master/demo.gif)
 
+[Try online](https://cubified.github.io/mode7)
+
 ## Explanation
 
 There is a bit of information in `mode7.js` and a more detailed explanation in `mode7_worker.js`, but here is another explanation of the effect:
