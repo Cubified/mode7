@@ -4,9 +4,9 @@ A pure-Javascript perspective transform (a la SNES Mode 7).
 
 ## Demo
 
-![Demo](https://github.com/Cubified/mode7/raw/master/demo.gif)
+[Try online](https://cubified.github.io/mode7/)
 
-[Try online](https://cubified.github.io/mode7)
+![Demo](https://github.com/Cubified/mode7/raw/master/demo.gif)
 
 ## Explanation
 
